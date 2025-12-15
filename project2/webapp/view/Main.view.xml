@@ -1,0 +1,19 @@
+<mvc:View controllerName="com.mahipal.project2.project2.controller.Main"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="paragraph">
+        <content>
+            <Text id="text1" text="Hello!!!"></Text>
+
+            
+            <Text id="text2" text="
+
+Fiori apps are designed for specific business roles.
+Instead of showing everything to everyone, each app focuses only on the tasks and information needed by that role, improving efficiency and clarity.
+
+Fiori aims to eliminate complexity.
+Each screen contains only what the user needs at that moment—no unnecessary fields, steps, or data."></Text>
+
+        </content>
+    </Page>
+</mvc:View>
